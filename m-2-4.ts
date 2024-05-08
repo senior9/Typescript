@@ -62,4 +62,5 @@ const boy2: Bekarjubok<hobby2> = {
         love: "adi"
 
     }
+    
 }
